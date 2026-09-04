@@ -6,7 +6,7 @@ end-to-end analytics: data cleaning, pivot tables, and dashboard design in Excel
 
 # Dashboard
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.PNG)
 
 # Dataset
 
